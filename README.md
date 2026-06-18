@@ -719,16 +719,8 @@ Delete Cookie
 
 ---
 
-# Future Improvements
-
-* Role-Based Access Control (RBAC)
-* Logout All Devices
-* Device Tracking
-* CSRF Protection
-* Email Verification
-* Password Reset
-* Account Locking
-* OAuth (Google/GitHub)
+# Flow 
+* https://whimsical.com/imran-s-workspace364/hybrid-auth-system-QYWUDgGJVeHNe15zmczAi6
 
 ---
 
